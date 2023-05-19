@@ -26,7 +26,7 @@ or if you are a Windows user
 
 # Credits
 
-Built as an Ebiten Game Development Class in [Potato.School](https://potato.school/?utm_source=github&utm_medium=lavagame).
+Join our Ebiten Game Development Class in [Potato.School](https://potato.school/?utm_source=github&utm_medium=lavagame).
 
 A character was generated using the [Universal LPC Character Spritesheet Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/).
 
