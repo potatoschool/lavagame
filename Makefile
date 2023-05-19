@@ -1,2 +1,2 @@
 build:
-	go build -o game main.go
+	go build main.go
